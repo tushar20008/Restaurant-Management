@@ -1,0 +1,338 @@
+/*
+OUTPUT :-
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+1
+Enter the data of new food item
+Enter Food Code : 2
+
+Enter Food Item : Pizza
+
+Enter the Price : 100
+
+Enter Quantity : 10
+
+Changes have been Saved
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+1
+Enter the data of new food item
+Enter Food Code : 2
+
+Enter Food Item : Burger
+
+Enter the Price : 50
+
+Enter Quantity : 10
+
+Changes have been Saved
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+3
+  F.Code.         FoodItem    Price
+	1            Pizza      100
+	2           Burger       50
+
+What would you like to Order ??
+Enter the code of FoodItem :
+1
+Quantity :
+1
+Would you like to have anything Else (Y/N) ??
+Y
+Enter the code of FoodItem :
+2
+Quantity :
+2
+That was an excellent choice !
+I repeat your Order
+  FoodItem        Qty   Price
+     Pizza          1     100
+     Burger         2      50
+
+Your Total Bill including all Taxes is :- 200
+Thanks For Coming
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+4
+Total Sales is 200
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+2
+What would you like to change?
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+1
+Enter the code of food item to be deleted : 2
+Changes have been made
+What would you like to change??
+
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+5
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+3
+  F.Code.         FoodItem    Price
+	1            Pizza      100
+
+What would you like to Order ??
+Enter the code of FoodItem :
+1
+Quantity :
+2
+Would you like to have anything Else (Y/N) ??
+N
+That was an excellent choice !
+I repeat your Order
+  FoodItem        Qty   Price
+     Pizza          2     100
+
+Your Total Bill including all Taxes is :- 200
+Thanks For Coming
+
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+4
+Total Sales is 400
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+2
+Enter the code of food item in which you want to make changes :
+1
+Enter the new price :
+150
+
+Your Changes have Been Saved
+What would you like to change??
+
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+5
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+3
+  F.Code.         FoodItem    Price
+	1            Pizza      150
+
+What would you like to Order ??
+Enter the code of FoodItem :
+1
+Quantity :
+2
+Would you like to have anything Else (Y/N) ??
+N
+That was an excellent choice !
+I repeat your Order
+  FoodItem        Qty   Price
+     Pizza          2     150
+
+Your Total Bill including all Taxes is :- 300
+Thanks For Coming
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+4
+Total Sales is 700
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+2
+What would you like to change??
+
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+3
+Enter the code of food item in which you want to make changes :
+1
+Enter the new Quantity :
+20
+
+Your Changes have Been Saved
+What would you like to change??
+
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+5
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+3
+  F.Code.         FoodItem    Price
+	1            Pizza      150
+
+What would you like to Order ??
+Enter the code of FoodItem :
+1
+Quantity :
+21
+Sorry but we dont have that much Pizza
+We only have 20
+Would you like to have anything Else (Y/N) ??
+Y
+Enter the code of FoodItem :
+1
+Quantity :
+2
+Would you like to have anything Else (Y/N) ??
+N
+I repeat your Order
+  FoodItem        Qty   Price
+     Pizza          2     150
+
+Your Total Bill including all Taxes is :- 300
+Thanks For Coming
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+4
+Total Sales is 1000
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+2
+What would you like to change ??
+4
+Enter the code of food item in which you want to make changes :
+1
+Enter the new name :
+V.Pizza
+
+Your Changes have Been Saved
+What would you like to change??
+
+1.Delete a pre-existing food item
+2.Make change in the Price of a food item
+3.Make change in the Quantity of a food item
+4.Make change in the name of food item
+5.Return Back
+5
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+3
+3
+  F.Code.         FoodItem    Price
+	1          V.Pizza      150
+
+What would you like to Order ??
+Enter the code of FoodItem :
+1
+Quantity :
+4
+Would you like to have anything Else (Y/N) ??
+I repeat your Order
+  FoodItem        Qty   Price
+   V.Pizza          4     150
+
+Your Total Bill including all Taxes is :- 600
+Thanks For Coming
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+4
+Total Sales is 1600
+WELCOME !!!
+
+1.Insert New Item
+2.Edit
+3.Take Order
+4.Total Sales
+5.Quit
+5
+Thanks for coming. Do visit us Again!!
+
+*/
